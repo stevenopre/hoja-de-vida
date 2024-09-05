@@ -1,0 +1,41 @@
+*{margin: 5px;
+padding: 0;}
+
+.texto{
+    color: red;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.contenedor{
+margin-bottom: 15px;
+}
+
+.fila{
+    width: 100%;
+}
+
+.col{
+   
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+
+.cuerpo{
+    margin: 2em;
+}
+
+.listas{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.aptitudes{
+    
+    margin-bottom: 15px;
+   
+}
+
+.contacto{
+    margin-left: 40px;
+}
